@@ -35,7 +35,7 @@ For this assignment, only the Basic page (Level 1) was completed and submitted.
 
 * Used a date form in the HTML document and wrote JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-![Summary](https://github.com/KGore12/javascript-challenge/blob/main/images/level-1_preview.png)
+![Summary](https://github.com/KGore12/javascript-challenge/blob/main/image/level-1_preview.png)
 
 ### Dataset
 
