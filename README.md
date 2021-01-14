@@ -20,13 +20,20 @@ For this assignment, only the Basic page (Level 1) was completed and submitted.
 
 ### Level 1: Automatic Table and Date Search (Required)
 
-* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+* Used the StarterCode/index.html to create a basic HTML page file provided.
 
-* Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
+* Used the UFO dataset provided in the form of an array of JavaScript objects, wrote code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
-  * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
+  *Columns displayed in the table:* 
+  
+  * date/time 
+  * `city
+  * state
+  * country
+  * shape
+  * comment
 
-* Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
+* Used a date form in the HTML document and wrote JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
 ### Dataset
 
