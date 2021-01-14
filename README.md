@@ -1,5 +1,8 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
+A webpage for UFO sightings that uses JavaScript, HTML, and CSS, and D3.js. Website is at
+
+
 ## Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
@@ -8,7 +11,13 @@ There is just one tiny problem though... our collection is too large to search t
 
 That's why we are hiring you. We need you to write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
-You can handle this... right? The planet Earth needs to know what we have found!
+
+## Summary
+This project creates an interactive website, specifically using D3.js to collect HTML form elements in the form of DOMs (Document Object Models) and adds event triggers to elements on the page filtering the given dataset demonstrating the use of Javascript. The dataset is a sample set of UFO sightings in the U.S. (the first two weeks of January 2010 only).
+
+For this assignment, only the Basic page was completed and submitted. 
+* The Basic site allows the user to enter a date in the date field and filter the table according to that date and display it once the "Filter Table" button is pressed or the Enter key is pressed on the keyboard. 
+
 
 ## Your Task
 
