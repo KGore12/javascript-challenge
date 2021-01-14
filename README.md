@@ -15,12 +15,8 @@ That's why we are hiring you. We need you to write code that will create a table
 ## Summary
 This project creates an interactive website, specifically using D3.js to collect HTML form elements in the form of DOMs (Document Object Models) and adds event triggers to elements on the page filtering the given dataset demonstrating the use of Javascript. The dataset is a sample set of UFO sightings in the U.S. (the first two weeks of January 2010 only).
 
-For this assignment, only the Basic page was completed and submitted. 
+For this assignment, only the Basic page (Level 1) was completed and submitted. 
 * The Basic site allows the user to enter a date in the date field and filter the table according to that date and display it once the "Filter Table" button is pressed or the Enter key is pressed on the keyboard. 
-
-
-## Your Task
-
 
 ### Level 1: Automatic Table and Date Search (Required)
 
@@ -31,20 +27,6 @@ For this assignment, only the Basic page was completed and submitted.
   * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
-
-### Level 2: Multiple Search Categories (Optional)
-
-* Complete all of Level 1 criteria.
-
-* Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
-
-  1. `date/time`
-  2. `city`
-  3. `state`
-  4. `country`
-  5. `shape`
-
-- - -
 
 ### Dataset
 
