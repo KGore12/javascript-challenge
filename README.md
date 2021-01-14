@@ -27,7 +27,7 @@ For this assignment, only the Basic page (Level 1) was completed and submitted.
   *Columns displayed in the table:* 
   
   * date/time 
-  * `city
+  * city
   * state
   * country
   * shape
