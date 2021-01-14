@@ -2,7 +2,6 @@
 
 A webpage for UFO sightings that uses JavaScript, HTML, and CSS, and D3.js. Website is at
 
-https://kgore12.github.io/javascript-challenge/
 
 ## Background
 
