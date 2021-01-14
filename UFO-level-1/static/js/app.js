@@ -45,7 +45,7 @@ button.on("click", function() {
 
     filteredData.forEach(function(selections) {
 
-    console.log(selectinos);
+    console.log(selections);
 
     // Append one table row 'tr' for each UFO Sighting object
     var row = tbody.append("tr");
