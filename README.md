@@ -2,6 +2,7 @@
 
 A webpage for UFO sightings that uses JavaScript, HTML, and CSS, and D3.js. Website is at
 
+https://kgore12.github.io/javascript-challenge/
 
 ## Background
 
@@ -27,7 +28,7 @@ For this assignment, only the Basic page (Level 1) was completed and submitted.
   *Columns displayed in the table:* 
   
   * date/time 
-  * `city
+  * city
   * state
   * country
   * shape
